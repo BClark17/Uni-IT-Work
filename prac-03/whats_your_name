@@ -1,0 +1,10 @@
+
+x = True
+name = str(input("What's your name?    "))
+while x:
+    name_no_space = name.replace(" ","")
+    if name_no_space.isalpha():
+        print("Hello ",name)
+        x = False
+    else:
+        name = str(input("You speak english? What's your name?    "))
