@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.4.4 (C:\Program Files\Python34\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Program Files\Python34\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/DLLs" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib/site-packages" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/ProgramData/App-V/F978A989-74DF-4F73-8A21-1AE62C68639D/63DCB314-BD67-4AA9-9C89-E61D8D2411E3/Root/VFS/ProgramFilesX64/Python34/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1378331450" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
