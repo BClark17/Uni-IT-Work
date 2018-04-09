@@ -2,8 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4baff01-9d8e-489f-9f03-d08fca542666" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-05/word_counter.py" afterPath="$PROJECT_DIR$/prac-05/word_counter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/anchor_layout.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/anchor_layout_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/basic_graphics_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/board_game.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/button_event.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/button_event_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo2.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/convert_m_km.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/convert_m_to_km.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/falling_drawing.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/falling_drawing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/float_layout.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/float_layout_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v1.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v1.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v2.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/grid_layout.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/grid_layout_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitars_app.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitars_app.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_kv.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_world.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hints_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hints_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/label.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/label_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mouse_drawing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mvc.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mvc_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/play_game_console.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_app.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_gui.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/simple_animation_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/simple_animation_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/size_and_position_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/size_position.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/spinner_demo.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/spinner_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/widget.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/box_layout.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/converter.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/converter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/squaring.kv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac-06/squaring.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" afterPath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,37 +77,46 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Uni-IT-Work" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="state_names.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-05/state_names.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="squaring.kv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="425">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hexadecimal_colours.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-05/hexadecimal_colours.py">
+      <file leaf-file-name="squaring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word_counter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac-05/word_counter.py">
+      <file leaf-file-name="converter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="converter.kv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prac-06/converter.kv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +145,11 @@
         <option value="$PROJECT_DIR$/prac-05/hexadecimal_colours.py" />
         <option value="$PROJECT_DIR$/prac-05/state_names.py" />
         <option value="$PROJECT_DIR$/prac-05/word_counter.py" />
+        <option value="$PROJECT_DIR$/prac-06/box_layout.kv" />
+        <option value="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
+        <option value="$PROJECT_DIR$/prac-06/squaring.kv" />
+        <option value="$PROJECT_DIR$/prac-06/squaring.py" />
+        <option value="$PROJECT_DIR$/prac-06/converter.py" />
       </list>
     </option>
   </component>
@@ -88,21 +159,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="156" />
+    <option name="y" value="-15" />
     <option name="width" value="1696" />
     <option name="height" value="1036" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -122,36 +183,18 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac-05" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Uni-IT-Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uni-IT-Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uni-IT-Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uni-IT-Work" type="462c0819:PsiDirectoryNode" />
+              <item name="prac-06" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -161,7 +204,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac-06" />
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac-06\MasterKivyFiles" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,34 +223,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.word_counter">
-    <configuration default="false" name="hexadecimal_colours" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.squaring">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-05" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="box_layout_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-05/hexadecimal_colours.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="word_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
       <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/hello_world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="popup_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac-06\MasterKivyFiles\popup_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="squaring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/squaring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="word_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files (x86)\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-05" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
@@ -210,7 +335,20 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-05/word_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Uni-IT-Work" />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,37 +401,6 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Uni-IT-Work" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="Uni-IT-Work" />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
@@ -342,7 +449,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,16 +461,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -377,17 +477,9 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -400,28 +492,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.hexadecimal_colours" />
-      <item index="1" class="java.lang.String" itemvalue="Python.word_counter" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.word_counter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hello_world" />
+      <item index="2" class="java.lang.String" itemvalue="Python.popup_demo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.box_layout_demo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.squaring" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.word_counter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.hexadecimal_colours" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.squaring" />
+        <item index="1" class="java.lang.String" itemvalue="Python.box_layout_demo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.popup_demo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.hello_world" />
+        <item index="4" class="java.lang.String" itemvalue="Python.word_counter" />
       </list>
     </recent_temporary>
   </component>
@@ -466,26 +555,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1279762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16754478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261339" sideWeight="0.49761903" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.50238097" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.5110643" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32795697" sideWeight="0.4889357" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32829374" sideWeight="0.49761903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -511,8 +600,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/prac-05/state_names.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -520,7 +609,23 @@
     <entry file="file://$PROJECT_DIR$/prac-05/hexadecimal_colours.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-05/state_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-05/hexadecimal_colours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -528,7 +633,85 @@
     <entry file="file://$PROJECT_DIR$/prac-05/word_counter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_world.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="21" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/box_layout_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/box_layout.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac-06/converter.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
