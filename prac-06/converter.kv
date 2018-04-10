@@ -1,0 +1,53 @@
+<Label>:
+    canvas.before:
+        Color:
+            rgba: 1, 1, 1, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    color: 0, 0, 0, 1
+
+<Button>:
+    background_normal: ''
+    canvas.after:
+        Color:
+            rgba: 0, 0, 0, 0.3
+        Line:
+            rectangle: self.x + 1, self.y + 1, self.width - 1, self.height - 1
+
+<TextInput>:
+    background_normal: ''
+    canvas.after:
+        Color:
+            rgba: 0, 0, 0, 0.3
+        Line:
+            rectangle: self.x + 1, self.y + 1, self.width - 1, self.height - 1
+BoxLayout:
+    orientation: 'vertical'
+    BoxLayout:
+        orientation: 'horizontal'
+
+        TextInput:
+            id: mile_value
+            text: '0'
+            foreground_color: (0,0,0,0.5)
+            size_hint: (3,1)
+            font_size: 40
+            multiline: False
+            on_text_validate: app.handle_convert(mile_value.text)
+        BoxLayout
+            orientation: 'vertical'
+            Button:
+                id: up_button
+                text: '+1'
+                on_press:app.handle_increment(1, mile_value.text)
+
+            Button:
+                id: down_button
+                text: '-1'
+                on_press:app.handle_increment(-1, mile_value.text)
+
+    Label:
+        id: km_value
+        text: 'Enter Miles value and hit enter!'
+        size_hint: (1, 0.5)
