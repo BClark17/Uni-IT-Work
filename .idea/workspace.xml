@@ -2,17 +2,256 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4baff01-9d8e-489f-9f03-d08fca542666" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac-06/dynamic_labels.kv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prac-06/dynamic_labels.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" afterPath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.py" afterPath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/box_layout.kv" afterPath="$PROJECT_DIR$/prac-06/box_layout.kv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/box_layout_demo.py" afterPath="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/converter.kv" afterPath="$PROJECT_DIR$/prac-06/converter.kv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/converter.py" afterPath="$PROJECT_DIR$/prac-06/converter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prac-06/squaring.py" afterPath="$PROJECT_DIR$/prac-06/squaring.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_windows/hello.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/car.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/guitar.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/guitar_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/languages.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/my_guitars.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_07/programming_language.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/car.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/silver_service_taxi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/silver_service_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/taxi_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/unreliable_car.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_08/unreliable_car_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Chords.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Chords.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Excites.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Excites.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Jazz.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Jazz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Jazz.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Jazz.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Playing.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Playing.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Playing.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Test.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Vibe.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Wife.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/Wife.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/sort_files.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Chords.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Chords.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Excites.doc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Excites.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Jazz.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Jazz.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Jazz.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Jazz.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Playing.docx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Playing.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Playing.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Test.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Vibe.xlsx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Wife.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/FilesToSort/temp/Wife.xls" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/Angels from the Realm of Glory.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/AngelsWeHaveHeard.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/Away In A Manger.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/HarkTheHerald.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/JoyToTheWorld.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/Merry Merry Christmas.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/NewbornKing.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/O Come Emmanuel.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/O Come Let Us Adore Him (Hillsong).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/O Holy Night.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/O little town of bethlehem.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/OComeAllYeFaithful.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/SilentNight.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/TheFirstNoel.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Christmas/We Three Kings.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Cornerstone.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/GloryToGodForever.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/GodOfThisCity.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/GodOfWonders.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/GreatIsThyFaithfulness.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/HereIAmToWorship.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/HolyHolyHoly.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Hosanna(Highest).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Hosanna.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/HowGreatIsOurGod.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/It'syourblood.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/ItIsWell (oh my soul).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Jesus What a Beautiful Name.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/LoveCameDown.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/LoveTheLord.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/MyHopeIsBuilt.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/MySaviourLives.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Salvation Belongs to Our God.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Salvation.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/ShoutYourFame.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/SoInLoveWithYou.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/TheHeartOfWorship.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/Unstoppable Love.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/WhatCanIDo.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/WhenISurvey(modern).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/WhenISurvey.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/WhileWe Sing.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/WithUs.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Old/indesciribable.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Special/Isaiah53_6.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Special/Remember The Lord.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Special/The Lord is King.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/10,000 Reasons (Bless The Lord).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/AliveInUs.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/AllBecauseOfJesus.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/AllForLove.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Amazing Grace (Traditional).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/AmazingGrace(MyChainsAreGone).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/BecauseOfYourLove.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/BlessedBeYourName.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Build your Kingdom Here.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Crown Him (Majesty).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/DesertSong.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/EverlastingGod.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/ForeverReign.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/From The Day.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Glorified.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/GodIsAble.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/GodIsWithUsNow.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/GraceAlone.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Holy holy holy (God with us).TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/HowDeepTheFathersLove.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/HowGreatThouArt.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/InChristAlone.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Jesus Firm Foundation.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Jesus Paid It All.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/JesusMessiah.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Joyful. (The One Who Saves).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Lord I Need You.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Majestic.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Man of Sorrows.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/MightyToSave.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/My Lighthouse.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/NeverOnce.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Oceans (Where Feet May Fail).txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Offering.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/OneThingRemains.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/OpenMyEyes.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/OpenTheEyesOfMyHeart.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/OurGod.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Psalm62.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Still.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Stronger.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/TheFirstAndTheLast.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/TheGreatnessOfOurGod.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/TheHopeOfAllHearts.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/This I Believe.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/ThisIsOurGod.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/TodayIsTheDay.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Victor'sCrown.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/WeLiftYouUp.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/Whom Shall I Fear.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/YouAreGood.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/Lyrics/temp/Sunday/YoullCome.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/prac_09/os_demos.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" afterPath="$PROJECT_DIR$/.idea/Uni-IT-Work.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/IntelliLang.xml" afterPath="$PROJECT_DIR$/_windows/IntelliLang.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/_windows/README.md" />
+      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" afterPath="$PROJECT_DIR$/_windows/colors.scheme.xml" />
+      <change beforePath="$PROJECT_DIR$/conda_packages.xml" afterPath="$PROJECT_DIR$/_windows/conda_packages.xml" />
+      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" afterPath="$PROJECT_DIR$/_windows/databaseDrivers.xml" />
+      <change beforePath="$PROJECT_DIR$/databaseSettings.xml" afterPath="$PROJECT_DIR$/_windows/databaseSettings.xml" />
+      <change beforePath="$PROJECT_DIR$/debugger.xml" afterPath="$PROJECT_DIR$/_windows/debugger.xml" />
+      <change beforePath="$PROJECT_DIR$/diff.xml" afterPath="$PROJECT_DIR$/_windows/diff.xml" />
+      <change beforePath="$PROJECT_DIR$/editor.codeinsight.xml" afterPath="$PROJECT_DIR$/_windows/editor.codeinsight.xml" />
+      <change beforePath="$PROJECT_DIR$/filetypes.xml" afterPath="$PROJECT_DIR$/_windows/filetypes.xml" />
+      <change beforePath="$PROJECT_DIR$/github_settings.xml" afterPath="$PROJECT_DIR$/_windows/github_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/hello.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/jdk.table.xml" afterPath="$PROJECT_DIR$/_windows/jdk.table.xml" />
+      <change beforePath="$PROJECT_DIR$/packages.xml" afterPath="$PROJECT_DIR$/_windows/packages.xml" />
+      <change beforePath="$PROJECT_DIR$/prac-02/capitalist_conrad.py" afterPath="$PROJECT_DIR$/prac_02/capitalist_conrad.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/exceptions_demo.py" afterPath="$PROJECT_DIR$/prac_02/exceptions_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/exceptions_to_complete.py" afterPath="$PROJECT_DIR$/prac_02/exceptions_to_complete.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/files.py" afterPath="$PROJECT_DIR$/prac_02/files.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/numbers.txt" afterPath="$PROJECT_DIR$/prac_02/numbers.txt" />
+      <change beforePath="$PROJECT_DIR$/prac-02/password_checker.py" afterPath="$PROJECT_DIR$/prac_02/password_checker.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/readme.txt" afterPath="$PROJECT_DIR$/prac_02/readme.txt" />
+      <change beforePath="$PROJECT_DIR$/prac-02/string_formatting.py" afterPath="$PROJECT_DIR$/prac_02/string_formatting.py" />
+      <change beforePath="$PROJECT_DIR$/prac-02/string_formatting_example.py" afterPath="$PROJECT_DIR$/prac_02/string_formatting_example.py" />
+      <change beforePath="$PROJECT_DIR$/prac-03/broken_score.py" afterPath="$PROJECT_DIR$/prac_03/broken_score.py" />
+      <change beforePath="$PROJECT_DIR$/prac-03/temperatures.py" afterPath="$PROJECT_DIR$/prac_03/temperatures.py" />
+      <change beforePath="$PROJECT_DIR$/prac-03/whats_your_name" afterPath="$PROJECT_DIR$/prac_03/whats_your_name" />
+      <change beforePath="$PROJECT_DIR$/prac-03/whats_your_name.py" afterPath="$PROJECT_DIR$/prac_03/whats_your_name.py" />
+      <change beforePath="$PROJECT_DIR$/prac-05/hexadecimal_colours.py" afterPath="$PROJECT_DIR$/prac_05/hexadecimal_colours.py" />
+      <change beforePath="$PROJECT_DIR$/prac-05/state_names.py" afterPath="$PROJECT_DIR$/prac_05/state_names.py" />
+      <change beforePath="$PROJECT_DIR$/prac-05/word_counter.py" afterPath="$PROJECT_DIR$/prac_05/word_counter.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/anchor_layout.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/anchor_layout.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/anchor_layout_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/anchor_layout_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/basic_graphics_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/basic_graphics_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/board_game.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/board_game.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/button_event.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/button_event.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/button_event_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/button_event_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/clock_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/clock_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo2.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/clock_demo2.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/clock_demo2.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/clock_demo2.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/convert_m_km.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/convert_m_km.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/convert_m_to_km.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/convert_m_to_km.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/dynamic_widgets.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/dynamic_widgets.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/falling_drawing.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/falling_drawing.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/falling_drawing.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/falling_drawing.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/float_layout.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/float_layout.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/float_layout_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/float_layout_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v1.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/game_v1.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v1.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/game_v1.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v2.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/game_v2.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/game_v2.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/game_v2.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/grid_layout.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/grid_layout.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/grid_layout_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/grid_layout_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitar.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/guitar.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitars_app.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/guitars_app.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/guitars_app.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/guitars_app.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_kv.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/hello_kv.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_world.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/hello_world.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hints_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/hints_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/hints_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/hints_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/id_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/id_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/label.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/label.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/label_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/label_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mouse_drawing.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/mouse_drawing.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mvc.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/mvc.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/mvc_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/mvc_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/play_game_console.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/play_game_console.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/popup_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/popup_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_app.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/quick_sum_app.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_gui.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/quick_sum_gui.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/simple_animation_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/simple_animation_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/simple_animation_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/simple_animation_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/size_and_position_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/size_and_position_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/size_position.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/size_position.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/spinner_demo.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/spinner_demo.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/spinner_demo.py" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/spinner_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/MasterKivyFiles/widget.kv" afterPath="$PROJECT_DIR$/prac_06/MasterKivyFiles/widget.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/box_layout.kv" afterPath="$PROJECT_DIR$/prac_06/box_layout.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/box_layout_demo.py" afterPath="$PROJECT_DIR$/prac_06/box_layout_demo.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/converter.kv" afterPath="$PROJECT_DIR$/prac_06/converter.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/converter.py" afterPath="$PROJECT_DIR$/prac_06/converter.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/dynamic_labels.kv" afterPath="$PROJECT_DIR$/prac_06/dynamic_labels.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/dynamic_labels.py" afterPath="$PROJECT_DIR$/prac_06/dynamic_labels.py" />
+      <change beforePath="$PROJECT_DIR$/prac-06/squaring.kv" afterPath="$PROJECT_DIR$/prac_06/squaring.kv" />
+      <change beforePath="$PROJECT_DIR$/prac-06/squaring.py" afterPath="$PROJECT_DIR$/prac_06/squaring.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/broken_score.py" afterPath="$PROJECT_DIR$/prac_01/broken_score.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/electricity_boll_estimator.py" afterPath="$PROJECT_DIR$/prac_01/electricity_boll_estimator.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/hello.py" afterPath="$PROJECT_DIR$/prac_01/hello.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/loops.py" afterPath="$PROJECT_DIR$/prac_01/loops.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/name_menu.py" afterPath="$PROJECT_DIR$/prac_01/name_menu.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/sales_bonus.py" afterPath="$PROJECT_DIR$/prac_01/sales_bonus.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/shop_calculator.py" afterPath="$PROJECT_DIR$/prac_01/shop_calculator.py" />
+      <change beforePath="$PROJECT_DIR$/prac_01/temperatures.py" afterPath="$PROJECT_DIR$/prac_01/temperatures.py" />
+      <change beforePath="$PROJECT_DIR$/project.default.xml" afterPath="$PROJECT_DIR$/_windows/project.default.xml" />
+      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="$PROJECT_DIR$/_windows/ui.lnf.xml" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" afterPath="$PROJECT_DIR$/_windows/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/web-browsers.xml" afterPath="$PROJECT_DIR$/_windows/web-browsers.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,99 +282,11 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Uni-IT-Work" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="box_layout_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/box_layout_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="box_layout.kv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/box_layout.kv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="squaring.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="squaring.kv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="converter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="converter.kv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/converter.kv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dynamic_labels.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/dynamic_labels.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dynamic_labels.kv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prac-06/dynamic_labels.kv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,11 +313,32 @@
         <option value="$PROJECT_DIR$/prac-06/dynamic_widgets.py" />
         <option value="$PROJECT_DIR$/prac-06/pynamic_labels.kv" />
         <option value="$PROJECT_DIR$/prac-06/dynamic_labels.py" />
-        <option value="$PROJECT_DIR$/prac-06/converter.kv" />
         <option value="$PROJECT_DIR$/prac-06/box_layout.kv" />
         <option value="$PROJECT_DIR$/prac-06/squaring.py" />
         <option value="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
         <option value="$PROJECT_DIR$/prac-06/converter.py" />
+        <option value="$PROJECT_DIR$/prac-06/converter.kv" />
+        <option value="$PROJECT_DIR$/prac-07/car.py" />
+        <option value="$PROJECT_DIR$/prac-07/programming_language.py" />
+        <option value="$PROJECT_DIR$/prac-07/languages.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar_test.py" />
+        <option value="$PROJECT_DIR$/prac_07/guitar.py" />
+        <option value="$PROJECT_DIR$/prac_07/programming_language.py" />
+        <option value="$PROJECT_DIR$/prac_07/languages.py" />
+        <option value="$PROJECT_DIR$/prac_07/my_guitars.py" />
+        <option value="$PROJECT_DIR$/prac_08/car.py" />
+        <option value="$PROJECT_DIR$/prac_08/taxi_test.py" />
+        <option value="$PROJECT_DIR$/prac_08/unreliable_car.py" />
+        <option value="$PROJECT_DIR$/prac_08/unreliable_car_test.py" />
+        <option value="$PROJECT_DIR$/prac_08/silver_service_test.py" />
+        <option value="$PROJECT_DIR$/prac_08/taxi.py" />
+        <option value="$PROJECT_DIR$/prac_08/silver_service_taxi.py" />
+        <option value="$PROJECT_DIR$/prac_08/taxi_simulator.py" />
+        <option value="$PROJECT_DIR$/prac_09/os_demos.py" />
+        <option value="$PROJECT_DIR$/prac_09/file_sorter.py" />
+        <option value="$PROJECT_DIR$/prac_09/FilesToSort/file_sorter.py" />
+        <option value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+        <option value="$PROJECT_DIR$/prac_09/FilesToSort/sort_files.py" />
       </list>
     </option>
   </component>
@@ -176,21 +348,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1036" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="y" value="53" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -207,88 +369,50 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac_01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac-06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Uni-IT-Work" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prac-06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MasterKivyFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="Uni-IT-Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uni-IT-Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uni-IT-Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uni-IT-Work" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Uni-IT-Work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Uni-IT-Work" type="462c0819:PsiDirectoryNode" />
+              <item name="prac_09" type="462c0819:PsiDirectoryNode" />
+              <item name="FilesToSort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_09\FilesToSort" />
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\_windows" />
       <recent name="C:\Users\jc463696\Uni-IT-Work\Uni-IT-Work\prac-06\MasterKivyFiles" />
       <recent name="C:\Users\jc463696\Uni-IT-Work\Uni-IT-Work\prac-06" />
       <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac-06" />
-      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac-06\MasterKivyFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_09\FilesToSort" />
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_09\FilesToSort\temp" />
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_09\Lyrics\temp" />
+      <recent name="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_08" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,116 +427,132 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in MilesToKilometers">
-    <configuration default="false" name="Unittest MilesToKilometers.build" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Uni-IT-Work" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/converter.py" />
-      <option name="CLASS_NAME" value="MilesToKilometers" />
-      <option name="METHOD_NAME" value="build" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest MilesToKilometers.handle_increment" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Uni-IT-Work" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/converter.py" />
-      <option name="CLASS_NAME" value="MilesToKilometers" />
-      <option name="METHOD_NAME" value="handle_increment" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="box_layout_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sort_files">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/box_layout_demo.py" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="Unittests in SquareNumberApp" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="cleanup_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/squaring.py" />
-      <option name="CLASS_NAME" value="SquareNumberApp" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/cleanup_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration default="false" name="Unittests in MilesToKilometers" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="file_sorter (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac-06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09/FilesToSort" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac-06/converter.py" />
-      <option name="CLASS_NAME" value="MilesToKilometers" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/FilesToSort/file_sorter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="file_sorter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\baile\Documents\GitHub\Uni-IT-Work\prac_09\FilesToSort\file_sorter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="os_demos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/os_demos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sort_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_09/FilesToSort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Uni-IT-Work" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_09/FilesToSort/sort_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Uni-IT-Work" />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -463,37 +603,6 @@
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Uni-IT-Work" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="Uni-IT-Work" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -550,7 +659,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -563,16 +671,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -585,17 +687,9 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -608,34 +702,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Uni-IT-Work" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest MilesToKilometers.build" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest MilesToKilometers.handle_increment" />
-      <item index="2" class="java.lang.String" itemvalue="Python.box_layout_demo" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SquareNumberApp" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in MilesToKilometers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.os_demos" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cleanup_files" />
+      <item index="2" class="java.lang.String" itemvalue="Python.file_sorter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.file_sorter (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sort_files" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in MilesToKilometers" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in SquareNumberApp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.box_layout_demo" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest MilesToKilometers.handle_increment" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest MilesToKilometers.build" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sort_files" />
+        <item index="1" class="java.lang.String" itemvalue="Python.file_sorter (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.file_sorter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.cleanup_files" />
+        <item index="4" class="java.lang.String" itemvalue="Python.os_demos" />
       </list>
     </recent_temporary>
   </component>
@@ -712,26 +797,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12321428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2170706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3261339" sideWeight="0.49761903" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261339" sideWeight="0.52738094" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.49522674" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3261339" sideWeight="0.47261906" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32473117" sideWeight="0.08061117" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32473117" sideWeight="0.91938883" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.48946258" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.49522674" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -757,220 +841,376 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-05/state_names.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-05/hexadecimal_colours.py">
+    <entry file="file://$PROJECT_DIR$/prac_05/hexadecimal_colours.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-05/state_names.py">
+    <entry file="file://$PROJECT_DIR$/prac_05/state_names.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-05/hexadecimal_colours.py">
+    <entry file="file://$PROJECT_DIR$/prac_05/hexadecimal_colours.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-05/word_counter.py">
+    <entry file="file://$PROJECT_DIR$/prac_05/word_counter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/popup_demo.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/popup_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="21" selection-end-column="11" />
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/id_demo.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/id_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python34/lib/site-packages/kivy/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="498" column="25" selection-start-line="498" selection-start-column="19" selection-end-line="498" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_gui.kv">
+    <entry file="file://C:/Program Files/Python34/lib/site-packages/kivy/app.py" />
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/quick_sum_gui.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/quick_sum_app.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/quick_sum_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
-          <folding />
+          <caret line="40" column="43" lean-forward="false" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/MasterKivyFiles/dynamic_widgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/box_layout_demo.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/box_layout_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/box_layout.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/dynamic_labels.kv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/dynamic_labels.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/dynamic_labels.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding />
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.kv">
+    <entry file="file://$PROJECT_DIR$/prac_06/squaring.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/squaring.py">
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/falling_drawing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/squaring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/widget.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/anchor_layout_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/hints_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/hints_demo.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/box_layout.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/dynamic_labels.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/dynamic_widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/converter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/button_event.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/board_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/button_event_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/anchor_layout.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/spinner_demo.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/converter.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/dynamic_widgets.kv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_06/MasterKivyFiles/spinner_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/used_cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/programming_language.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/guitar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="90" lean-forward="false" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/my_guitars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_07/languages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/silver_service_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/taxi_simulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/converter.kv">
+    <entry file="file://$PROJECT_DIR$/prac_08/silver_service_taxi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        <state relative-caret-position="102">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prac-06/converter.py">
+    <entry file="file://$PROJECT_DIR$/prac_08/unreliable_car_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/unreliable_car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="19" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/taxi_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/taxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_08/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/Lyrics/Temp/Christmas/NewbornKing.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/FilesToSort/file_sorter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/cleanup_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="e#1#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/FilesToSort/sort_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prac_09/os_demos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="51" lean-forward="false" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="51" />
+          <folding>
+            <element signature="e#68#81#0" expanded="true" />
           </folding>
         </state>
       </provider>
